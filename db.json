@@ -8,11 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": [
-    { "id": 1, "name": "Viki" , "email": "vikiandrianto88@gmail.com"},
-    { "id": 2, "name": "Viki 2" , "email": "vikiandrianto882@gmail.com"},
-    { "id": 3, "name": "Viki 3", "email": "vikiandrianto883@gmail.com"},
-    { "id": 4, "name": "Viki 4" , "email": "vikiandrianto84@gmail.com"},
-    { "id": 5, "name": "Viki 5" , "email": "vikiandrianto885@gmail.com"},
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
