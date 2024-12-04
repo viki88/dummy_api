@@ -8,10 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
-  "users":[
+  "profile": [
     { "id": 1, "name": "Viki" , "email": "vikiandrianto88@gmail.com"},
     { "id": 2, "name": "Viki 2" , "email": "vikiandrianto882@gmail.com"},
     { "id": 3, "name": "Viki 3", "email": "vikiandrianto883@gmail.com"},
